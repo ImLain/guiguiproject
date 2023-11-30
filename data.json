@@ -1,0 +1,14 @@
+{
+  "riddle1": {
+      "question": "Mon premier nous est utile pour manger. \nMon deuxième représente un groupe de personnes dont le sujet fait partie.Mon tout sert à fermer les bouteilles.",
+      "answer": "bouchon"
+  },
+  "riddle2": {
+      "question": "Mon premier est la capitale de l\u2019Italie.\nMon second est une voyelle.\nMon troisi\u00e8me est un fleuve d\u2019Europe.\nMon tout est une plante qui sent bon.",
+      "answer": "romarin"
+  },
+  "riddle3": {
+      "question": "Dans mon premier, on peut parfois trouver des vaches.\nMon deuxi\u00e8me est le contraire de \u00ab oui \u00bb.\nTout le monde poss\u00e8de mon tout.",
+      "answer": "pr\u00e9nom"
+  }
+}
